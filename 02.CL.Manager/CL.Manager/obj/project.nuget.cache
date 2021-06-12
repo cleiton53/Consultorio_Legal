@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0RGcgC5I+p/MNscN4yMqAR6XdRRU9cfxp/rWOn53fPJcxQIGNn0QwaD/Pqu8k/C5+TuQwcfKJBLUOX61uAa0Q==",
+  "success": true,
+  "projectFilePath": "/media/cyb3r/Programas/Repositorios/Consultorio_Legal/02.CL.Manager/CL.Manager/CL.Manager.csproj",
+  "expectedPackageFiles": [
+    "/home/cyb3r/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/cyb3r/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

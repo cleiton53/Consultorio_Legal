@@ -1,0 +1,9 @@
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/bin/Debug/netstandard2.0/CL.Data.deps.json
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/bin/Debug/netstandard2.0/CL.Data.dll
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/bin/Debug/netstandard2.0/CL.Data.pdb
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/obj/Debug/netstandard2.0/CL.Data.csprojAssemblyReference.cache
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/obj/Debug/netstandard2.0/CL.Data.AssemblyInfoInputs.cache
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/obj/Debug/netstandard2.0/CL.Data.AssemblyInfo.cs
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/obj/Debug/netstandard2.0/CL.Data.csproj.CoreCompileInputs.cache
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/obj/Debug/netstandard2.0/CL.Data.dll
+/media/cyb3r/Programas/Repositorios/Consultorio_Legal/03.CL.Data/CL.Data/obj/Debug/netstandard2.0/CL.Data.pdb
